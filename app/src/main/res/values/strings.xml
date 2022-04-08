@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Color Descriptor</string>
+    <string name="button_find_description">Определить цвет</string>
+
+    <string-array name="colors">
+        <item>Красный</item>
+        <item>Оранжевый</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+        <item>Голубой</item>
+    </string-array>
+
+    <string-array name="description_of_temp">
+        <item>Красный цвет символизирует стремление к успеху.</item>
+        <item>Это цвет людей, обладающих незаурядной интуицией.</item>
+        <item>Желтый цвет воспринимается как светящийся и теплый.</item>
+        <item>Зеленый - цвет природы, естества.</item>
+        <item>Голубой цвет - это символ впечатлительности.</item>
+    </string-array>
+</resources>
